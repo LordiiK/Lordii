@@ -9,3 +9,6 @@ List Installed Images
 
 List Docker Containers
 "docker ps -a"
+
+Run Image in Docker
+"docker run image name"
