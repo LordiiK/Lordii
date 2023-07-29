@@ -1,8 +1,11 @@
 1."docker version" 
 2."docker --version"
+
 Install images
 Docker pull "image name" (ex hello world)
+
 List Installed Images
 "docker images"
+
 List Docker Containers
 "docker ps -a"
