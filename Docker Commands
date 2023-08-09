@@ -12,3 +12,15 @@ List Docker Containers
 
 Run Image in Docker
 "docker run image name"
+
+displays the summary of the amount of disk space used by the docker daemon
+"df -h"
+
+Changes root disk space to 5gb or the desired space
+"Docker run -it --name cent3 --storage-opt size=5G centos"
+
+Lists containers-ID-Name-Limits-Usage
+"Docker stats"
+
+Inspect any image docker(prived full details about the selected image)
+"Docker insect centos:latest"
