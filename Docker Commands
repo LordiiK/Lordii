@@ -23,4 +23,4 @@ Lists containers-ID-Name-Limits-Usage
 "Docker stats"
 
 Inspect any image docker(prived full details about the selected image)
-"Docker insect centos:latest"
+"Docker inspect centos:latest"
