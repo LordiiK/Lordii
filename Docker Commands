@@ -24,3 +24,6 @@ Lists containers-ID-Name-Limits-Usage
 
 Inspect any image docker(prived full details about the selected image)
 "Docker inspect centos:latest"
+
+Create a volume
+"docker volume create 'volume name'"
