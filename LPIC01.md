@@ -1,3 +1,4 @@
++ text in green Lordii
 rescue: Local file systems are mounted, there is no networking and only root user (maintenance mode)
 emergency: Only the root file system and in read only mode, No networking and only root (maintenance mode)
 reboot
